@@ -1,0 +1,402 @@
+[
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2007]",
+    "Industry": 8.846189653
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2008]",
+    "Industry": 4.887177121
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2009]",
+    "Industry": 3.118992196
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2010]",
+    "Industry": 9.766980427
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2011]",
+    "Industry": 9.529496007
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2012]",
+    "Industry": 0.556493453
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "Industry": -2.519895739
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2014]",
+    "Industry": 7.393979569
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2015]",
+    "Industry": 5.953176624
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2016]",
+    "Industry": 2.142434645
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2017]",
+    "Industry": 1.167453367
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2018]",
+    "Industry": 5.794981142
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2019]",
+    "Industry": 3.430543228
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2020]",
+    "Industry": -4.499206645
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2021]",
+    "Industry": 3.356683165
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2022]",
+    "Industry": 0
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2007]",
+    "Industry": -1.600969222
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2008]",
+    "Industry": -2.970382325
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2009]",
+    "Industry": -8.807279652
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2010]",
+    "Industry": 2.229993871
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2011]",
+    "Industry": -3.052967841
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2012]",
+    "Industry": -0.373802362
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2013]",
+    "Industry": 2.889917096
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2014]",
+    "Industry": 2.384555676
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2015]",
+    "Industry": 4.755249989
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2016]",
+    "Industry": -0.020922812
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2017]",
+    "Industry": 1.158166414
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2018]",
+    "Industry": 1.794476388
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2019]",
+    "Industry": 2.089229181
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2020]",
+    "Industry": -3.141194102
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2021]",
+    "Industry": 9.121388547
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2022]",
+    "Industry": 0
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2007]",
+    "Industry": 4.31766294
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2008]",
+    "Industry": 2.032380162
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2009]",
+    "Industry": -7.899120866
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2010]",
+    "Industry": 1.55149117
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2011]",
+    "Industry": 1.660383162
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2012]",
+    "Industry": -2.341924504
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2013]",
+    "Industry": 0.028241111
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2014]",
+    "Industry": -0.27620094
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2015]",
+    "Industry": 0.195948414
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2016]",
+    "Industry": 2.304657927
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2017]",
+    "Industry": 4.644470583
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2018]",
+    "Industry": 2.854683798
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2019]",
+    "Industry": 1.021496037
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2020]",
+    "Industry": -2.09487432
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2021]",
+    "Industry": 4.933137958
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2022]",
+    "Industry": 0
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2007]",
+    "Industry": -2.476355709
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2008]",
+    "Industry": -1.214600282
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2009]",
+    "Industry": -10.59174975
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2010]",
+    "Industry": 0.151132034
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2011]",
+    "Industry": 2.750127538
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2012]",
+    "Industry": 1.600502348
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2013]",
+    "Industry": -1.266437636
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2014]",
+    "Industry": 0.451923792
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2015]",
+    "Industry": 1.446234243
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2016]",
+    "Industry": 5.777910451
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2017]",
+    "Industry": 5.965406834
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2018]",
+    "Industry": 0.96605222
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2019]",
+    "Industry": 1.610809803
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2020]",
+    "Industry": -3.108642023
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2021]",
+    "Industry": 5.246295907
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2022]",
+    "Industry": 0
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2007]",
+    "Industry": 10.90516867
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2008]",
+    "Industry": 5.996050663
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2009]",
+    "Industry": -13.04476511
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2010]",
+    "Industry": 12.24575376
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2011]",
+    "Industry": 3.084392427
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2012]",
+    "Industry": 2.222779628
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2013]",
+    "Industry": -5.503737169
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2014]",
+    "Industry": 13.54367593
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2015]",
+    "Industry": 8.024394535
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2016]",
+    "Industry": -1.001803027
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2017]",
+    "Industry": 1.476427562
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2018]",
+    "Industry": 6.990250673
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2019]",
+    "Industry": 3.913842601
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2020]",
+    "Industry": -12.56018737
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2021]",
+    "Industry": 2.455218034
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2022]",
+    "Industry": 0
+  }
+]

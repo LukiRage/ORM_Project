@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <CountryCode>DNK</CountryCode>
+    <CountryName>Denmark</CountryName>
+  </row>
+  <row>
+    <CountryCode>GBR</CountryCode>
+    <CountryName>Great Britain</CountryName>
+  </row>
+  <row>
+    <CountryCode>NLD</CountryCode>
+    <CountryName>Netherlands</CountryName>
+  </row>
+  <row>
+    <CountryCode>POL</CountryCode>
+    <CountryName>Poland</CountryName>
+  </row>
+  <row>
+    <CountryCode>SVK</CountryCode>
+    <CountryName>Slovakia</CountryName>
+  </row>
+</root>

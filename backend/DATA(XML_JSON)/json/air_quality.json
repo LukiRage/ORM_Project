@@ -1,0 +1,252 @@
+[
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2010]",
+    "PM2_5_value": 12.27
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2010]",
+    "PM2_5_value": 13.17
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2010]",
+    "PM2_5_value": 15.01
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2010]",
+    "PM2_5_value": 21.7
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2010]",
+    "PM2_5_value": 26.32
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2011]",
+    "PM2_5_value": 12.98
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2011]",
+    "PM2_5_value": 13.41
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2011]",
+    "PM2_5_value": 15.53
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2011]",
+    "PM2_5_value": 22.66
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2011]",
+    "PM2_5_value": 27.02
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2012]",
+    "PM2_5_value": 11.44
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2012]",
+    "PM2_5_value": 12.14
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2012]",
+    "PM2_5_value": 13.75
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2012]",
+    "PM2_5_value": 20.27
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2012]",
+    "PM2_5_value": 24.47
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 10.97
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 11.82
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 13.2
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 19.47
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "PM2_5_value": 23.36
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2014]",
+    "PM2_5_value": 10.39
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2014]",
+    "PM2_5_value": 10.95
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2014]",
+    "PM2_5_value": 12.49
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2014]",
+    "PM2_5_value": 19.52
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2014]",
+    "PM2_5_value": 23.45
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2015]",
+    "PM2_5_value": 11.08
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2015]",
+    "PM2_5_value": 12.59
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2015]",
+    "PM2_5_value": 19.05
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2015]",
+    "PM2_5_value": 22.59
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2015]",
+    "PM2_5_value": 10.73
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2016]",
+    "PM2_5_value": 10.19
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2016]",
+    "PM2_5_value": 11.6
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2016]",
+    "PM2_5_value": 17.98
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2016]",
+    "PM2_5_value": 21.34
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2016]",
+    "PM2_5_value": 9.78
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2017]",
+    "PM2_5_value": 10.09
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2017]",
+    "PM2_5_value": 11.63
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2017]",
+    "PM2_5_value": 18.49
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2017]",
+    "PM2_5_value": 21.96
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2017]",
+    "PM2_5_value": 9.97
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2018]",
+    "PM2_5_value": 10.07
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2018]",
+    "PM2_5_value": 11.49
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2018]",
+    "PM2_5_value": 19.08
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2018]",
+    "PM2_5_value": 22.51
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2018]",
+    "PM2_5_value": 10.02
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2019]",
+    "PM2_5_value": 10.74
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2019]",
+    "PM2_5_value": 15.89
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2019]",
+    "PM2_5_value": 18.83
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2019]",
+    "PM2_5_value": 9.52
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2019]",
+    "PM2_5_value": 9.66
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2007]",
+    "GDP_growth": 7.06
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2008]",
+    "GDP_growth": 4.2
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2009]",
+    "GDP_growth": 2.83
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2010]",
+    "GDP_growth": 2.93
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2011]",
+    "GDP_growth": 5.04
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2012]",
+    "GDP_growth": 1.55
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 0.86
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2014]",
+    "GDP_growth": 3.84
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2015]",
+    "GDP_growth": 4.38
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2016]",
+    "GDP_growth": 2.95
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2017]",
+    "GDP_growth": 5.14
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2018]",
+    "GDP_growth": 5.95
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2019]",
+    "GDP_growth": 4.45
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2020]",
+    "GDP_growth": -2.02
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2021]",
+    "GDP_growth": 6.85
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2022]",
+    "GDP_growth": 0
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2007]",
+    "GDP_growth": 2.56
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2008]",
+    "GDP_growth": -0.15
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2009]",
+    "GDP_growth": -4.51
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2010]",
+    "GDP_growth": 2.43
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2011]",
+    "GDP_growth": 1.07
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2012]",
+    "GDP_growth": 1.45
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 1.82
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2014]",
+    "GDP_growth": 3.2
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2015]",
+    "GDP_growth": 2.39
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2016]",
+    "GDP_growth": 2.17
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2017]",
+    "GDP_growth": 2.44
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2018]",
+    "GDP_growth": 1.71
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2019]",
+    "GDP_growth": 1.6
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2020]",
+    "GDP_growth": -11.03
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2021]",
+    "GDP_growth": 7.52
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2022]",
+    "GDP_growth": 0
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2007]",
+    "GDP_growth": 0.91
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2008]",
+    "GDP_growth": -0.51
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2009]",
+    "GDP_growth": -4.91
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2010]",
+    "GDP_growth": 1.87
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2011]",
+    "GDP_growth": 1.34
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2012]",
+    "GDP_growth": 0.23
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 0.93
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2014]",
+    "GDP_growth": 1.62
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2015]",
+    "GDP_growth": 2.34
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2016]",
+    "GDP_growth": 3.25
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2017]",
+    "GDP_growth": 2.82
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2018]",
+    "GDP_growth": 1.99
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2019]",
+    "GDP_growth": 1.49
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2020]",
+    "GDP_growth": -1.99
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2021]",
+    "GDP_growth": 4.86
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2022]",
+    "GDP_growth": 0
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2007]",
+    "GDP_growth": 3.77
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2008]",
+    "GDP_growth": 2.17
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2009]",
+    "GDP_growth": -3.67
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2010]",
+    "GDP_growth": 1.34
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2011]",
+    "GDP_growth": 1.55
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2012]",
+    "GDP_growth": -1.03
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2013]",
+    "GDP_growth": -0.13
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2014]",
+    "GDP_growth": 1.42
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2015]",
+    "GDP_growth": 1.96
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2016]",
+    "GDP_growth": 2.19
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2017]",
+    "GDP_growth": 2.91
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2018]",
+    "GDP_growth": 2.36
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2019]",
+    "GDP_growth": 1.96
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2020]",
+    "GDP_growth": -3.89
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2021]",
+    "GDP_growth": 4.86
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2022]",
+    "GDP_growth": 0
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2007]",
+    "GDP_growth": 10.83
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2008]",
+    "GDP_growth": 5.57
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2009]",
+    "GDP_growth": -5.46
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2010]",
+    "GDP_growth": 6.72
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2011]",
+    "GDP_growth": 2.67
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2012]",
+    "GDP_growth": 1.32
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2013]",
+    "GDP_growth": 0.63
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2014]",
+    "GDP_growth": 2.7
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2015]",
+    "GDP_growth": 5.17
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2016]",
+    "GDP_growth": 1.94
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2017]",
+    "GDP_growth": 2.94
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2018]",
+    "GDP_growth": 4.03
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2019]",
+    "GDP_growth": 2.52
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2020]",
+    "GDP_growth": -3.37
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2021]",
+    "GDP_growth": 3.01
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2022]",
+    "GDP_growth": 0
+  }
+]

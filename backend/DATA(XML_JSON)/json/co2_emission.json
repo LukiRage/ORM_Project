@@ -1,0 +1,677 @@
+[
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2007]",
+    "Coal": 18.42,
+    "Oil": 24.17,
+    "Gas": 9.74,
+    "Cement": 1.41,
+    "CO2_emission_summary": 53.74
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2008]",
+    "Coal": 16.13,
+    "Oil": 23.32,
+    "Gas": 9.83,
+    "Cement": 1.15,
+    "CO2_emission_summary": 50.43
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2009]",
+    "Coal": 15.78,
+    "Oil": 22.3,
+    "Gas": 9.41,
+    "Cement": 0.76,
+    "CO2_emission_summary": 48.26
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2010]",
+    "Coal": 15.35,
+    "Oil": 21.95,
+    "Gas": 10.57,
+    "Cement": 0.67,
+    "CO2_emission_summary": 48.54
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2011]",
+    "Coal": 12.91,
+    "Oil": 20.92,
+    "Gas": 8.98,
+    "Cement": 0.86,
+    "CO2_emission_summary": 43.68
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2012]",
+    "Coal": 10.08,
+    "Oil": 19.95,
+    "Gas": 8.41,
+    "Cement": 0.87,
+    "CO2_emission_summary": 39.32
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2013]",
+    "Coal": 12.75,
+    "Oil": 19.57,
+    "Gas": 7.94,
+    "Cement": 0.87,
+    "CO2_emission_summary": 41.14
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2014]",
+    "Coal": 10.14,
+    "Oil": 19.08,
+    "Gas": 6.82,
+    "Cement": 0.89,
+    "CO2_emission_summary": 36.93
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2015]",
+    "Coal": 7.24,
+    "Oil": 19.58,
+    "Gas": 6.91,
+    "Cement": 0.93,
+    "CO2_emission_summary": 34.67
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2016]",
+    "Coal": 8.41,
+    "Oil": 19.86,
+    "Gas": 7.01,
+    "Cement": 1.1,
+    "CO2_emission_summary": 36.39
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2017]",
+    "Coal": 6.25,
+    "Oil": 20.03,
+    "Gas": 6.68,
+    "Cement": 1.19,
+    "CO2_emission_summary": 34.16
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2018]",
+    "Coal": 6.36,
+    "Oil": 20.09,
+    "Gas": 6.48,
+    "Cement": 1.16,
+    "CO2_emission_summary": 34.09
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2019]",
+    "Coal": 3.59,
+    "Oil": 19.7,
+    "Gas": 6.02,
+    "Cement": 1.13,
+    "CO2_emission_summary": 30.43
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2020]",
+    "Coal": 3.14,
+    "Oil": 18.59,
+    "Gas": 4.79,
+    "Cement": 1.23,
+    "CO2_emission_summary": 27.75
+  },
+  {
+    "CountryCode": "DNK",
+    "YearCode": "[YR2021]",
+    "Coal": 4.38,
+    "Oil": 18.67,
+    "Gas": 4.78,
+    "Cement": 1.23,
+    "CO2_emission_summary": 29.05
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2007]",
+    "Coal": 33.03,
+    "Oil": 58.61,
+    "Gas": 77.47,
+    "Cement": 0.4,
+    "CO2_emission_summary": 169.52
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2008]",
+    "Coal": 32.02,
+    "Oil": 59.06,
+    "Gas": 81.2,
+    "Cement": 0.4,
+    "CO2_emission_summary": 172.68
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2009]",
+    "Coal": 29.41,
+    "Oil": 55.78,
+    "Gas": 81.74,
+    "Cement": 0.42,
+    "CO2_emission_summary": 167.35
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2010]",
+    "Coal": 30.42,
+    "Oil": 56.98,
+    "Gas": 91.54,
+    "Cement": 0.35,
+    "CO2_emission_summary": 179.28
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2011]",
+    "Coal": 29.62,
+    "Oil": 56.39,
+    "Gas": 79.73,
+    "Cement": 0.35,
+    "CO2_emission_summary": 166.09
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2012]",
+    "Coal": 31.88,
+    "Oil": 54.3,
+    "Gas": 76.11,
+    "Cement": 0.31,
+    "CO2_emission_summary": 162.6
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2013]",
+    "Coal": 32.44,
+    "Oil": 52.67,
+    "Gas": 76.95,
+    "Cement": 0.27,
+    "CO2_emission_summary": 162.33
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2014]",
+    "Coal": 35.8,
+    "Oil": 52.2,
+    "Gas": 67.01,
+    "Cement": 0.28,
+    "CO2_emission_summary": 155.29
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2015]",
+    "Coal": 43.55,
+    "Oil": 51.89,
+    "Gas": 66.15,
+    "Cement": 0.25,
+    "CO2_emission_summary": 161.83
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2016]",
+    "Coal": 40.07,
+    "Oil": 53.2,
+    "Gas": 68.95,
+    "Cement": 0.24,
+    "CO2_emission_summary": 162.46
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2017]",
+    "Coal": 36.03,
+    "Oil": 52.93,
+    "Gas": 70.73,
+    "Cement": 0.3,
+    "CO2_emission_summary": 159.99
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2018]",
+    "Coal": 32.53,
+    "Oil": 53.61,
+    "Gas": 69.86,
+    "Cement": 0.22,
+    "CO2_emission_summary": 156.22
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2019]",
+    "Coal": 25.31,
+    "Oil": 53,
+    "Gas": 72.47,
+    "Cement": 0.01,
+    "CO2_emission_summary": 150.79
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2020]",
+    "Coal": 16.99,
+    "Oil": 48.16,
+    "Gas": 70.67,
+    "Cement": 0,
+    "CO2_emission_summary": 135.82
+  },
+  {
+    "CountryCode": "NLD",
+    "YearCode": "[YR2021]",
+    "Coal": 23,
+    "Oil": 47.94,
+    "Gas": 68.08,
+    "Cement": 0.01,
+    "CO2_emission_summary": 139.03
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2007]",
+    "Coal": 227.71,
+    "Oil": 66.01,
+    "Gas": 27.91,
+    "Cement": 7.05,
+    "CO2_emission_summary": 328.68
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2008]",
+    "Coal": 220.47,
+    "Oil": 67.23,
+    "Gas": 28.13,
+    "Cement": 6.69,
+    "CO2_emission_summary": 322.53
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2009]",
+    "Coal": 209.07,
+    "Oil": 67.93,
+    "Gas": 27.27,
+    "Cement": 5.76,
+    "CO2_emission_summary": 310.03
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2010]",
+    "Coal": 220.93,
+    "Oil": 70.86,
+    "Gas": 29.13,
+    "Cement": 6.22,
+    "CO2_emission_summary": 327.15
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2011]",
+    "Coal": 218.38,
+    "Oil": 70.53,
+    "Gas": 29.33,
+    "Cement": 7.38,
+    "CO2_emission_summary": 325.61
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2012]",
+    "Coal": 214.04,
+    "Oil": 67.27,
+    "Gas": 30.56,
+    "Cement": 6.38,
+    "CO2_emission_summary": 318.25
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2013]",
+    "Coal": 214.31,
+    "Oil": 62.58,
+    "Gas": 30.8,
+    "Cement": 5.87,
+    "CO2_emission_summary": 313.57
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2014]",
+    "Coal": 203,
+    "Oil": 62.29,
+    "Gas": 29.46,
+    "Cement": 6.46,
+    "CO2_emission_summary": 301.21
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2015]",
+    "Coal": 201.65,
+    "Oil": 65.7,
+    "Gas": 30.63,
+    "Cement": 6.34,
+    "CO2_emission_summary": 304.32
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2016]",
+    "Coal": 202.1,
+    "Oil": 73.98,
+    "Gas": 32.42,
+    "Cement": 6.53,
+    "CO2_emission_summary": 315.03
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2017]",
+    "Coal": 203.6,
+    "Oil": 83.59,
+    "Gas": 34.13,
+    "Cement": 7,
+    "CO2_emission_summary": 328.31
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2018]",
+    "Coal": 198.83,
+    "Oil": 86.61,
+    "Gas": 34.28,
+    "Cement": 7.66,
+    "CO2_emission_summary": 327.38
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2019]",
+    "Coal": 177.94,
+    "Oil": 88.16,
+    "Gas": 35.49,
+    "Cement": 7.69,
+    "CO2_emission_summary": 309.28
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2020]",
+    "Coal": 164.23,
+    "Oil": 85.53,
+    "Gas": 36.76,
+    "Cement": 7.69,
+    "CO2_emission_summary": 294.22
+  },
+  {
+    "CountryCode": "POL",
+    "YearCode": "[YR2021]",
+    "Coal": 179.5,
+    "Oil": 91.71,
+    "Gas": 40.57,
+    "Cement": 7.5,
+    "CO2_emission_summary": 319.28
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2007]",
+    "Coal": 17.56,
+    "Oil": 9.3,
+    "Gas": 11.38,
+    "Cement": 1.48,
+    "CO2_emission_summary": 39.73
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2008]",
+    "Coal": 17.06,
+    "Oil": 9.63,
+    "Gas": 11.77,
+    "Cement": 1.6,
+    "CO2_emission_summary": 40.06
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2009]",
+    "Coal": 16.03,
+    "Oil": 9,
+    "Gas": 10.41,
+    "Cement": 1.21,
+    "CO2_emission_summary": 36.65
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2010]",
+    "Coal": 16.05,
+    "Oil": 9.33,
+    "Gas": 11.05,
+    "Cement": 0.86,
+    "CO2_emission_summary": 37.29
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2011]",
+    "Coal": 16.3,
+    "Oil": 8.86,
+    "Gas": 10.42,
+    "Cement": 1.26,
+    "CO2_emission_summary": 36.85
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2012]",
+    "Coal": 14.58,
+    "Oil": 9.12,
+    "Gas": 10.06,
+    "Cement": 1.1,
+    "CO2_emission_summary": 34.86
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2013]",
+    "Coal": 14.28,
+    "Oil": 8.99,
+    "Gas": 10.24,
+    "Cement": 1.14,
+    "CO2_emission_summary": 34.64
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2014]",
+    "Coal": 14.08,
+    "Oil": 8.87,
+    "Gas": 8.49,
+    "Cement": 1.27,
+    "CO2_emission_summary": 32.7
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2015]",
+    "Coal": 13.92,
+    "Oil": 9.65,
+    "Gas": 8.71,
+    "Cement": 1.31,
+    "CO2_emission_summary": 33.59
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2016]",
+    "Coal": 13.83,
+    "Oil": 10.02,
+    "Gas": 8.85,
+    "Cement": 1.34,
+    "CO2_emission_summary": 34.04
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2017]",
+    "Coal": 14.28,
+    "Oil": 10.14,
+    "Gas": 9.39,
+    "Cement": 1.37,
+    "CO2_emission_summary": 35.18
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2018]",
+    "Coal": 14.21,
+    "Oil": 10.23,
+    "Gas": 9.36,
+    "Cement": 1.35,
+    "CO2_emission_summary": 35.15
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2019]",
+    "Coal": 11.78,
+    "Oil": 10.32,
+    "Gas": 9.37,
+    "Cement": 1.4,
+    "CO2_emission_summary": 32.87
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2020]",
+    "Coal": 9.96,
+    "Oil": 9.61,
+    "Gas": 9.29,
+    "Cement": 1.44,
+    "CO2_emission_summary": 30.3
+  },
+  {
+    "CountryCode": "SVK",
+    "YearCode": "[YR2021]",
+    "Coal": 12.58,
+    "Oil": 10.09,
+    "Gas": 10.39,
+    "Cement": 1.44,
+    "CO2_emission_summary": 34.51
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2007]",
+    "Coal": 150.84,
+    "Oil": 196.16,
+    "Gas": 196.52,
+    "Cement": 6.12,
+    "CO2_emission_summary": 549.64
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2008]",
+    "Coal": 139.22,
+    "Oil": 188.8,
+    "Gas": 202.65,
+    "Cement": 5.2,
+    "CO2_emission_summary": 535.88
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2009]",
+    "Coal": 113.82,
+    "Oil": 180.26,
+    "Gas": 188.07,
+    "Cement": 3.72,
+    "CO2_emission_summary": 485.88
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2010]",
+    "Coal": 118.03,
+    "Oil": 179.85,
+    "Gas": 201.93,
+    "Cement": 3.79,
+    "CO2_emission_summary": 503.6
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2011]",
+    "Coal": 117.15,
+    "Oil": 172.06,
+    "Gas": 168.24,
+    "Cement": 4.1,
+    "CO2_emission_summary": 461.54
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2012]",
+    "Coal": 148.01,
+    "Oil": 170.29,
+    "Gas": 158.24,
+    "Cement": 3.72,
+    "CO2_emission_summary": 480.26
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2013]",
+    "Coal": 142.46,
+    "Oil": 165.76,
+    "Gas": 157.62,
+    "Cement": 4.03,
+    "CO2_emission_summary": 469.86
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2014]",
+    "Coal": 115.43,
+    "Oil": 166.51,
+    "Gas": 144.49,
+    "Cement": 4.21,
+    "CO2_emission_summary": 430.65
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2015]",
+    "Coal": 91.55,
+    "Oil": 170.77,
+    "Gas": 147.9,
+    "Cement": 4.39,
+    "CO2_emission_summary": 414.61
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2016]",
+    "Coal": 47.82,
+    "Oil": 173.93,
+    "Gas": 165.74,
+    "Cement": 4.55,
+    "CO2_emission_summary": 392.05
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2017]",
+    "Coal": 39.13,
+    "Oil": 174.85,
+    "Gas": 161.7,
+    "Cement": 4.41,
+    "CO2_emission_summary": 380.09
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2018]",
+    "Coal": 33.28,
+    "Oil": 173.09,
+    "Gas": 161.49,
+    "Cement": 4.36,
+    "CO2_emission_summary": 372.22
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2019]",
+    "Coal": 24.51,
+    "Oil": 169,
+    "Gas": 159.32,
+    "Cement": 4.45,
+    "CO2_emission_summary": 357.28
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2020]",
+    "Coal": 22.81,
+    "Oil": 143.98,
+    "Gas": 149.42,
+    "Cement": 3.9,
+    "CO2_emission_summary": 320.11
+  },
+  {
+    "CountryCode": "GBR",
+    "YearCode": "[YR2021]",
+    "Coal": 23.69,
+    "Oil": 154.11,
+    "Gas": 158.86,
+    "Cement": 3.9,
+    "CO2_emission_summary": 340.56
+  }
+]
