@@ -69,3 +69,4 @@ This repository contains a .NET project for an Object-Relational Mapping (ORM) d
 - @RobertNeat
 - @LukiRage
 - @Kander678
+- @Dexos21
