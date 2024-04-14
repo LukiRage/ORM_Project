@@ -26,7 +26,7 @@ Build and run the project.
 Use the provided REST and SOAP endpoints to retrieve data from the database.
 ## Endpoints:
 
-REST API: /api/data/{tableName} - Retrieves data based on table name, year code, and country code.
+REST API: /api/data/{tableName} - Retrieves data based on table name, year code, and country code.</br>
 SOAP API: /api/data - Supports SOAP requests for data retrieval.
 ## Additional Notes:
 
